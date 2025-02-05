@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekpatelap" alt="abhishekpatelap" /></a> </p>
 
-- 🔭 I’m currently working on **Sale DashBoard**
+- 🔭 I’m currently working As **Quality Specialist @ Amazon**
 
 - 🌱 I’m currently learning **Machine Learning**
 
