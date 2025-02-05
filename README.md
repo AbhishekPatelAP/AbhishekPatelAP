@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h1 align="center">Hey there 👋, I'm Abhishek</h1>
+<h1 I'm a self-taught passionate Data Analyst from India 🇮🇳 </h1>
 <h3 align="center">Aspiring Data Scientist | Exploring Insights Through Data & AI 🚀📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpatelap&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpatelap" /> </p>
