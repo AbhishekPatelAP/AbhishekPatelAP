@@ -1,16 +1,16 @@
 <h1 align="center">Hey there 👋, I'm Abhishek</h1>
-<h1 I'm a self-taught passionate Data Analyst from India 🇮🇳 </h1>
-<h3 align="center">Aspiring Data Scientist | Exploring Insights Through Data & AI 🚀📊</h3>
+<h3 align="center"> I'am self-taught passionate Data Analyst from India  🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpatelap&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpatelap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekpatelap" alt="abhishekpatelap" /></a> </p>
 
-- 🔭 I’m currently working As **Quality Specialist @ Amazon**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 💼  Qaulity Specialist at **[Amazon](http://razorpay.com/)**
 
-- 📫 How to reach me **00096abhishek@gmail.com**
+- ❤️  Passionate about analyzing data, uncovering patterns, and finding meaningful insights to drive decisions.
+
+- 💬 Ask me about anything [here](https://github.com/abhishekpatelap/abhishekpatelap/issues)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
