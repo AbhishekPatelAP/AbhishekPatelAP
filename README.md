@@ -25,6 +25,7 @@
   <code><img height="30" alt="excel" src="https://snipboard.io/DfKPRY.jpg"></code>
   <code><img height="30" alt="powerbi" src="https://snipboard.io/qFVbYm.jpg"></code>
   <code><img height="30" alt="tableau" src="https://snipboard.io/sNoIFO.jpg"></code>
+  <code><img height="30" alt="google-big-query" src="https://snipboard.io/vHusin.jpg"></code>
   <code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   
