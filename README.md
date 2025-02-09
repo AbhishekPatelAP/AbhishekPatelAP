@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="20" alt="python" src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png"></code>
   <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
   <code><img height="20" alt="java" src="https://snipboard.io/B0kswR.jpg"></code>
   <code><img height="20" alt="excel" src="https://snipboard.io/DfKPRY.jpg"></code>
