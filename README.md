@@ -18,27 +18,51 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 <p align="left">
-<a href="https://www.mysql.com" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" 
-         alt="MySQL" 
-         width="30" 
-         height="30" 
-         style="border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);"/>
-</a>
+    
+  <a href="https://www.python.org">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png" alt="python" width="30" height="30"/>
+  </a>
+  
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" alt="mysql" width="30" height="30"/>
+  </a>
 
+  <a href="https://www.microsoft.com/en-in/sql-server" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MSQLServer.png" alt="msqlserver" width="30" height="30"/>
+  </a>
 
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Microsoft_Office_Excel.png" alt="excel" width="30" height="30"/>
+  </a>
 
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Power_BI.png" alt="power-bi" width="30" height="30"/>
+  </a>
 
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Tableau.png" alt="tableau" width="30" height="30"/>
+  </a>
 
- 
-<a href="https://www.python.org"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png" alt="python" width="30" height="30"/> </a>
-<a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" alt="mysql" width="30" height="30"/> </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Microsoft_Office_Excel.png" alt="excel" width="30" height="30"/> </a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Power_BI.png" alt="power-bi" width="30" height="30"/> </a>
+  <a href="https://www.java.com/en/">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Java.png" alt="java" width="30" height="30"/>
+  </a>
 
+  <a href="https://html.com/">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/HTML.png" alt="html" width="30" height="30"/>
+  </a>
 
- </p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/CSS3.png" alt="css" width="30" height="30"/>
+  </a>
+
+  <a href="https://jupyter.org/">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Jupyter.png" alt="jupyter" width="30" height="30"/>
+  </a>
+  
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpatelap&show_icons=true&locale=en&layout=compact" alt="abhishekpatelap" /></p>
 
