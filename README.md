@@ -19,6 +19,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+<a href="https://www.mysql.com" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" 
+         alt="MySQL" 
+         width="30" 
+         height="30" 
+         style="border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);"/>
+</a>
+
+
+
+
+
+ 
 <a href="https://www.python.org"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png" alt="python" width="30" height="30"/> </a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" alt="mysql" width="30" height="30"/> </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Microsoft_Office_Excel.png" alt="excel" width="30" height="30"/> </a>
