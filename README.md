@@ -19,15 +19,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <code><img height="20" alt="python" src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png"></code>
-  <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-  <code><img height="20" alt="java" src="https://snipboard.io/B0kswR.jpg"></code>
-  <code><img height="20" alt="excel" src="https://snipboard.io/DfKPRY.jpg"></code>
-  <code><img height="20" alt="powerbi" src="https://snipboard.io/qFVbYm.jpg"></code>
-  <code><img height="20" alt="tableau" src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Tableau.png"></code>
-  <code><img height="20" alt="google-big-query" src="https://snipboard.io/vHusin.jpg"></code>
-  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png" alt="python" width="30" height="30"/> </a>
+<a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" alt="mysql" width="30" height="30"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Microsoft_Office_Excel.png" alt="excel" width="30" height="30"/> </a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Power_BI.png" alt="power-bi" width="30" height="30"/> </a>
+
 
  </p>
 
