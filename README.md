@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png" alt="python" width="30" height="30"/> </a>
+<a href="https://www.python.org"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png" alt="python" width="30" height="30"/> </a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" alt="mysql" width="30" height="30"/> </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Microsoft_Office_Excel.png" alt="excel" width="30" height="30"/> </a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Power_BI.png" alt="power-bi" width="30" height="30"/> </a>
