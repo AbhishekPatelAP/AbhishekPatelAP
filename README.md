@@ -12,35 +12,20 @@
 
 - 💬 Ask me about anything [here](https://github.com/abhishekpatelap/abhishekpatelap/issues)
 
-<h3> Connect with me : <a href="https://www.linkedin.com/in/connect-patel/" target="blank"><img align="center" src="https://www.linkedin.com/in/connect-patel/" alt="AbhishekPatel" height="20" width="100" /></a></h3>
 
 
+## 🌐 Connect With Me : 👇 
 
-## You can reach me  👇 
-
-### [Ankit Gupta](https://bio.link/AnkitGupta)
-
-<p align="left"> <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
-
-<a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
-<a href="https://www.instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_" alt="MrAnkitGupta_" height="20" width="110" /></a>
-<a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="https://bio.link/AnkitGupta" height="20" width="90" /></a>
-<a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
-
-
-
-
-
-
-
-
+### [Abhishek Patel](https://bio.link/abhishek_patel)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/connect_patel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connect_patel) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abhishek_patel) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:00096abhishek@gmail.com) 
 
 
 
 <p align="left">
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 💻 Languages and Tools :</h3>
 
 
 <p align="left">
