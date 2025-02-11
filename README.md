@@ -12,9 +12,11 @@
 
 - 💬 Ask me about anything [here](https://github.com/abhishekpatelap/abhishekpatelap/issues)
 
-<h3 align="left">Connect with me:</h3>
+Connect with me: [here](00096abhishek@gmail.com) 
+
+
 <p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -60,7 +62,12 @@
   <a href="https://jupyter.org/">
     <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Jupyter.png" alt="jupyter" width="30" height="30"/>
   </a>
-  
+
+  <a href="https://www.docker.com/">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Docker.png" alt="docker" width="50" height="30"/>
+  </a>
+
+ 
 </p>
 
 
