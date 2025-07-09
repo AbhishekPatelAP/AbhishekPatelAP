@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekpatelap" alt="abhishekpatelap" /></a> </p>
 
 
-- 💼  Qaulity Specialist at **[Amazon](http://razorpay.com/)**
+- 💼  Last Mile Transportation Analyst at **[Amazon](http://razorpay.com/)**
 
 - ❤️  Passionate about analyzing data, uncovering patterns, and finding meaningful insights to drive decisions.
 
