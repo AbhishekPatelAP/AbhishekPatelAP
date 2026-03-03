@@ -50,15 +50,7 @@ A **Business Analyst at Amazon**, where I turn data into actionable insights tha
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
     <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Power_BI.png" alt="power-bi" width="25" height="25"/>
   </a>
-
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Tableau.png" alt="tableau" width="25" height="25"/>
-  </a>
-
-  <a href="https://www.java.com/en/">
-    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Java.png" alt="java" width="25" height="25"/>
-  </a>
-
+  
   <a href="https://html.com/">
     <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/HTML.png" alt="html" width="25" height="25"/>
   </a>
