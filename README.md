@@ -31,16 +31,8 @@ A **Business Analyst at Amazon**, where I turn data into actionable insights tha
 
 <p align="left">
 
-  <a href="https://www.python.org">
-    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png" alt="python" width="25" height="25"/>
-  </a>
-  
   <a href="https://www.mysql.com" target="_blank">
-    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" alt="mysql" width="25" height="25"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-in/sql-server" target="_blank">
-    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MSQLServer.png" alt="msqlserver" width="25" height="25"/>
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MySQL.png" alt="mysql" width="30" height="30"/>
   </a>
 
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
@@ -51,15 +43,31 @@ A **Business Analyst at Amazon**, where I turn data into actionable insights tha
     <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Power_BI.png" alt="power-bi" width="25" height="25"/>
   </a>
   
-  <a href="https://html.com/">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Python.png" alt="python" width="25" height="25"/>
+  </a>
+
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/numpy.png" alt="numpy" width="25" height="25"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/pandas.png" alt="pandas" width="25" height="25"/>
+  </a>
+  
+  <a href="https://www.microsoft.com/en-in/sql-server" target="_blank">
+    <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/MSQLServer.png" alt="msqlserver" width="25" height="25"/>
+  </a>
+  
+  <a href="https://html.com/" target="_blank">
     <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/HTML.png" alt="html" width="25" height="25"/>
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/CSS3.png" alt="css" width="25" height="25"/>
   </a>
 
-  <a href="https://jupyter.org/">
+  <a href="https://jupyter.org/" target="_blank">
     <img src="https://github.com/AbhishekPatelAP/AbhishekPatelAP/blob/main/Images/Jupyter.png" alt="jupyter" width="25" height="25"/>
   </a>
 
@@ -78,10 +86,3 @@ A **Business Analyst at Amazon**, where I turn data into actionable insights tha
   [GitHub Repo](https://github.com/AbhishekPatelAP/customer-and-sales-analytics-data-warehouse)
 
 ---
-
-## 📈 GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekPatelAP&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPatelAP&layout=compact&theme=radical)
-
-
