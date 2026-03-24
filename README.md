@@ -3,7 +3,7 @@
 
 A **Business Analyst at Amazon**, where I turn data into actionable insights that drive operational excellence and strategic decision-making.
 
-🔍 With a strong background in **SQL, Python, Quicksight, Power BI, and Excel**, I specialize in data-driven storytelling, process automation, and building dashboards that help teams make informed decisions at scale.
+🔍 With a strong background in **SQL, Python, Power BI, and Excel**, I specialize in data-driven storytelling, process automation, and building dashboards that help teams make informed decisions at scale.
 
 📊 I love working on end-to-end analytics projects—from data collection and cleaning to visualization and insight generation. I'm passionate about solving real-world problems with data and constantly exploring ways to improve efficiency and accuracy through automation and scalable analytics solutions.
 
